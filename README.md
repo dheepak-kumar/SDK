@@ -1,0 +1,1 @@
+save this as a .bat file and click this to lauch the game, it will take a backup of the game and put it in the same place as this script exist. Have Fun being the king of Tekken.(Edit the code as you prefer, if you wish to)
